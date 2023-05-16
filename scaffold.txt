@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=.;Database=HDdelivery;MultipleActiveResultSets=true;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
